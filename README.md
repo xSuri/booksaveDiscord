@@ -9,7 +9,7 @@ I am constantly improving my own skills and so far I do not share my projects ve
 # Requirements
 All in /DB to import And Install Requirements
 
-And import the local DB to your DB server. ( discord.sql )
+And import the local DB to your DB server. ( messages.sql )
 
 # Start
 Go to /Main
