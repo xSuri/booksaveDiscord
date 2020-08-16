@@ -12,6 +12,6 @@ All in /DB to import And Install Requirements
 And import the local DB to your DB server. ( messages.sql )
 
 # Start
-Go to /Main
+Go to /main
 
 "node bot.js" OR "nodemon bot.js"
