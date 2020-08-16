@@ -1,0 +1,14 @@
+I recommend:
+
+npm install nodemon -g  
+
+^ For comfort C:
+
+
+Require:
+
+npm install
+npm install mysql --save
+npm install discord.js --save
+
+Start install.sh to auto install this.
